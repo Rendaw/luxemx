@@ -7,7 +7,7 @@ setup(
     author_email='spoo@zarbosoft.com',
     packages=['luxemx'],
     url='https://github.com/Rendaw/luxemx',
-    download_url='https://github.com/Rendaw/luxemx/tarball/0.0.1',
+    download_url='https://github.com/Rendaw/luxemx/tarball/v0.0.1',
     license='BSD',
     description='Extracts specified elements from luxem documents',
     long_description=open('readme.txt', 'r').read(),
